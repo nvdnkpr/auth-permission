@@ -1,0 +1,12 @@
+{
+  "name": "auth-permission",
+  "description": "Represent a permission having an action and resource.",
+  "repo": "alexmingoia/auth-permission",
+  "author": "Alex Mingoia <talk@alexmingoia.com>",
+  "keywords": ["acl", "roles", "permissions", "permission"],
+  "version": "1.0.0",
+  "scripts": [
+    "index.js"
+  ],
+  "license": "MIT"
+}

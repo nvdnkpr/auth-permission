@@ -1,0 +1,12 @@
+{
+  "name": "auth-permission",
+  "description": "Represent a permission having an action and resource.",
+  "author": "Alex Mingoia <talk@alexmingoia.com>",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexmingoia/auth-permission.git"
+  },
+  "keywords": ["acl", "roles", "permissions", "permission"],
+  "license": "MIT"
+}
