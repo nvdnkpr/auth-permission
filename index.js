@@ -1,6 +1,10 @@
 module.exports = Permission;
 
 function Permission(action, resource) {
+  if (!(this instanceof Permission)) {
+    return new Permission(action, resource);
+  }
+
   Object.defineProperty(this, 'action', {
     enumerable: true,
     value: action
