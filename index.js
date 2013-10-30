@@ -19,5 +19,5 @@ function Permission(action, resource) {
 };
 
 Permission.prototype.name = function() {
-  return this.action + ' ' + this.resource;
+  return this.action() + ' ' + this.resource();
 };
