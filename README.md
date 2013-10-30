@@ -39,8 +39,8 @@ permission.name();
 // => "read forum"
 ```
 
-### permission.action
+### permission.action()
 
-### permission.resource
+### permission.resource()
 
 ## MIT Licensed
