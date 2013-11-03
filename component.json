@@ -6,7 +6,7 @@
   "keywords": ["acl", "roles", "permissions", "permission"],
   "version": "1.0.0",
   "scripts": [
-    "index.js"
+    "lib/permission.js"
   ],
   "license": "MIT"
 }

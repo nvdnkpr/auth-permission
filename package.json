@@ -7,6 +7,7 @@
     "type": "git",
     "url": "https://github.com/alexmingoia/auth-permission.git"
   },
+  "main": "./lib/permission.js",
   "keywords": ["acl", "roles", "permissions", "permission"],
   "license": "MIT"
 }
